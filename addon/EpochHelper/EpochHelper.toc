@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: EpochHelper
+## Notes: Quest waypoints and hints for Project Epoch
+## Author: You
+## Version: 2.1
+## SavedVariables: EpochHelperDB
+
+QuestData.lua
+Core.lua
